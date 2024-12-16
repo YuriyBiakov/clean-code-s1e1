@@ -5,7 +5,7 @@
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.app-body__header {
   width: 500px;
   margin: 0 auto;
   display: block;
@@ -16,17 +16,17 @@
   width: 100%;
 }
 
-.aaa .more_inf {
+.app-body__header .more_info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa {
+  .app-body__header {
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.app-body__functional-block {
   display: block;
   width: 500px;
   margin: 0 auto 0;
