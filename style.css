@@ -110,6 +110,10 @@ h3,
   width: 318px;
 }
 
+.add-task-block {
+  margin: 16px 0;
+}
+
 /* Task list */
 .task-item {
   overflow: hidden;
